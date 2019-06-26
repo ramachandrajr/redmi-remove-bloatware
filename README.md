@@ -48,3 +48,5 @@ if you are on linux, then you're in luck
 3. `./rm_mi_bloatware.sh`
 
 and all will be cleared out. If you have any comments put it on 
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Frjextreme%2Fposts%2F1729056123905429&width=500" width="500" height="300" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
