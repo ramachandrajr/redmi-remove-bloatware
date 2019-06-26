@@ -44,7 +44,7 @@ Then run the commands in the file that say `adb <anything else>`
 
 if you are on linux, then you're in luck
 1. just download / save the file
-2. `chmod +x filename`
-3. `./filename`
+2. `chmod +x rm_mi_bloatware.sh`
+3. `./rm_mi_bloatware.sh`
 
 and all will be cleared out. If you have any comments put it on 
