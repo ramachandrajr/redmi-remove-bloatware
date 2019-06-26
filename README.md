@@ -47,4 +47,6 @@ if you are on linux, then you're in luck
 2. `chmod +x rm_mi_bloatware.sh`
 3. `./rm_mi_bloatware.sh`
 
-and all will be cleared out. If you have any comments put it on 
+and all will be cleared out. 
+
+If you feel there can be some good changes, send some pull requests.
